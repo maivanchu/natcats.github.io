@@ -1,7 +1,6 @@
-meet-ubuntu-ads
-===============
+NatCat - Cat Modelling Start Up company
 
-Simple Ubuntu presentation done using impress.js
+This website is created using the following demo
 
 ### Demo
 * http://lejenome.github.io/meet-ubuntu-ads
